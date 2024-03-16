@@ -1,0 +1,12 @@
+token: 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
+
+
+dashbord repo : https://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@github.com/Mohamed77assan/Dashbord
+
+git add name_file
+or 
+git add 0  //all files 
+
+git commit -m " solution "
+
+git push
